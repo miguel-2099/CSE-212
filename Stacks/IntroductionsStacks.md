@@ -1,4 +1,4 @@
-# Inrtoduction: Stacks #
+# Introduction: Stacks #
 
 ## **Content**:
 
