@@ -1,4 +1,4 @@
-# Inrtoduction: Linked Lists #
+# Introduction: Linked Lists #
 
 ## **Content**:
 
