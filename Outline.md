@@ -1,4 +1,4 @@
-# C# Datastructures Tutorial
+# C# Data Structures Tutorial
 
 ## **Outline**:
 Stacks
